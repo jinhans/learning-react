@@ -3,5 +3,5 @@
     "target": "es6",
     "module": "es2015"
   },
-  "include": ["src/**/*"]
+  "include": ["src/**/*", "../../../24/blog-frontend/src/containers"]
 }
